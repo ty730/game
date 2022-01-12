@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
-
+// Yey another test
 class Sprite extends Component {
-  // This is another test
     constructor(props) {
         super(props);
         this.state = {
